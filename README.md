@@ -36,11 +36,11 @@ Fokus pembelajaran pada pertemuan ini adalah:
 
 ## Struktur Program
 
-pertemuan3/
-└── oop/
-└── course/
-├── App.java
-└── Car.java
+pertemuan3/  
+└── oop/  
+    └── course/  
+        ├── App.java  
+        └── Car.java  
 
 
 **Penjelasan File:**
